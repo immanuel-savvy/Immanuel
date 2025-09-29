@@ -1,0 +1,10 @@
+
+      x = 5
+      display(x)
+      display(x * 3)
+      wait(500)
+      display(x / 2)
+      wait(1500)
+      display(x ** 3)
+      display(x)
+      
